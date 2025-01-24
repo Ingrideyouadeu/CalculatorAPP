@@ -28,7 +28,7 @@ Welcome to my iOS Calculator app! This project showcases a functional and user-f
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/ios-calculator.git
+  [ git clone https://github.com/your-username/ios-calculator.git](https://github.com/Ingrideyouadeu/CalculatorAPP.git)
    ```  
 2. Open the project in Xcode.  
 3. Build and run the app on your preferred iOS simulator or device.  
